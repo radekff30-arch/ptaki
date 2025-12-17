@@ -1,0 +1,52 @@
+body {
+color:black;
+background-color:#e2dada;
+width: 880px;
+margin-top: 50px;
+margin-right: auto;
+margin-bottom: 50px;
+margin-left: auto;
+}
+
+
+h1 {
+font-size: 28px;
+font-family: Arial;
+}
+
+h2 {
+font-size: 24px;
+font-family: Arial;
+}
+
+span {
+font-family: Arial;
+}
+	
+img {
+width: 150px; 
+height: 200px;
+}
+
+p {
+font-family: Arial;
+text-align: justify;
+line-height: 1.5;
+}
+
+li {
+font-family: Arial;
+}
+
+section {
+padding: 20px 20px 20px 20px;
+background-color:white;
+
+}
+
+header {
+padding: 20px 20px 20px 20px;
+background-color:white;
+
+}
+
